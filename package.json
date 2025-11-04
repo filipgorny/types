@@ -1,6 +1,6 @@
 {
   "name": "@filipgorny/types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shared TypeScript types for the monorepo",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
